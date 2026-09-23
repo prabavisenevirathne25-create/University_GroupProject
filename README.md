@@ -192,44 +192,31 @@ Implements an undirected campus graph using an adjacency matrix and supports BFS
 16. Traverse Campus (BFS / DFS)
 17. Exit
 ```
-## Team Members and Contributions
-
-01.W.A.T.K. Chandrasiri
-    *Student ID: 23DA2-0214
-        *Responsibility: Linked List and Student Record
-            *Contributions:
-            -Option 1: Add Student Record
-            -Option 2: Update Student Record
-            -Option 3: Delete Student Record
-            -Option 4: Display All Records using Linked List
-            
-02.R.M.T.R. Rathnayaka
-    *Student ID: 23DA2-0253
-        *Responsibility: Stack and Queue
-            *Contributions:
-            -Option 7: Add Service Request to Queue
-            -Option 8: Process Next Service Request
-            -Option 9: Display Pending Service Requests
-            -Option 10: Display Recent Actions using Stack
-            
-03.N.B.A. Nethmi Navodya Nishanka
-    *Student ID: 23DA2-0182
-        *Responsibility: BST and Hashing
-            *Contributions:
-            -Option 5: Search Student using Hashing
-            -Option 6: Display Students using BST/AVL
-
-04.P.H. Senevirathna
-    *Student ID: 23DA2-0071
-        *Responsibility: Graph and Main.java
-            *Contributions:
-            -Option 11: Add Campus Location
-            -Option 12: Remove Campus Location
-            -Option 13: Add Campus Connection/Road
-            -Option 14: Remove Campus Connection/Road
-            -Option 15: Display Campus Connections
-            -Option 16: Traverse Campus using BFS/DFS
-            -Option 17: Exit
+## Team Members and Individual Contributions
+|-----------------------------------------------------------------------------------------------------------------------|
+|  Member's Name     |     Student ID     | Assigned Responsibility |  Individual Contribution                          |
+|-----------------------------------------------------------------------------------------------------------------------|                   
+|W.A.T.K. Chandrasiri|     23DA2-0214     | Linked List and Student |Option 1: Add Student Record                       |
+|                    |                    | Record                  |Option 2: Update Student Record                    |      
+|                    |                    |                         |Option 3: Delete Student Record                    |
+|                    |                    |                         |Option 4: Display All Records using Linked List    |
+|-----------------------------------------------------------------------------------------------------------------------|
+|R.M.T.R. Rathnayaka |     23DA2-0253     | Stack and Queue         |Option 7: Add Service Request to Queue             |
+|                    |                    |                         |Option 8: Process Next Service Request             |      
+|                    |                    |                         |Option 9: Display Pending Service Requests         |
+|                    |                    |                         |Option 10: Display Recent Actions using Stack      |
+|-----------------------------------------------------------------------------------------------------------------------|
+|N.B.A. Nethmi       |     23DA2-0182     | BST,                    |Option 5: Search Student using Hashing             |
+|  Navodya Nishanka  |                    | and Hashing             |Option 6: Display Students using BST/AVL           |      
+|-----------------------------------------------------------------------------------------------------------------------|
+| P.H. Senevirathna  |     23DA2-0071     | Graph                   |Option 11: Add Campus Location                     |      
+|                    |                    | Main.java               |Option 12: Remove Campus Location                  |
+|                    |                    |                         |Option 13: Add Campus Connection/Road              |
+|                    |                    |                         |Option 14: Remove Campus Connection/Road           |      
+|                    |                    |                         |Option 15: Display Campus Connections              |
+|                    |                    |                         |Option 16: Traverse Campus using BFS/DFS           |
+|                    |                    |                         |Option 17: Exit                                    |
+|-----------------------------------------------------------------------------------------------------------------------|
 
 /*
 ## Academic Information
@@ -238,4 +225,3 @@ Implements an undirected campus graph using an adjacency matrix and supports BFS
 - **Programming Language:** Java
 - **Academic Institution:** `Sri Lanka Technology Campus`
 - **Course/Module:** `CIT300-Data Structures and Algorithms`
-- **Group Number: 16
