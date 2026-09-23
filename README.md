@@ -100,21 +100,15 @@ The graph is implemented using an adjacency matrix.
 
 ---
 ## Data Structures Used
-|------------------------------------------------------------------------------------------------------------------------|
-| Data Structure                 | Class                            |     Purpose                                        |
-|------------------------------------------------------------------------------------------------------------------------|
-| Singly Linked List             | StudentLinkedList                | Stores student records in insertion order          |
-|------------------------------------------------------------------------------------------------------------------------|
-| Hash Table                     | StudentHashTable                 | Provides fast student searching by ID              |
-|------------------------------------------------------------------------------------------------------------------------|
-| Binary Search Tree             | StudentTree                      | Displays students in ascending ID order            |
-|------------------------------------------------------------------------------------------------------------------------|
-| Queue                          | ServiceQueue                     | Manages service requests in FIFO order             |
-|------------------------------------------------------------------------------------------------------------------------|
-| Stack                          | ActionStack                      | Stores recent actions in LIFO order                |
-|------------------------------------------------------------------------------------------------------------------------|
-| Graph                          | CampusGraph                      | Represents campus locations and roads              |
-|------------------------------------------------------------------------------------------------------------------------|
+
+|Data Structure            |  Class                    |   Purpose                                 |  
+|--------------------------|---------------------------|-------------------------------------------|
+|Singly Linked List        | StudentLinkedList         | Stores student records in insertion order | 
+|Hash Table                | StudentHashTable          | Provides fast student searching by ID     | 
+|Binary Search Tree        | StudentTree               | Displays students in ascending ID order   | 
+|Queue                     | ServiceQueue              | Manages service requests in FIFO order    | 
+|Stack                     | ActionStack               | Stores recent actions in LIFO order       | 
+|Graph                     | CampusGraph               | Represents campus locations and roads     | 
 
 ---
 
@@ -193,31 +187,35 @@ Implements an undirected campus graph using an adjacency matrix and supports BFS
 17. Exit
 ```
 ## Team Members and Individual Contributions
-|-----------------------------------------------------------------------------------------------------------------------|
-|  Member's Name     |     Student ID     | Assigned Responsibility |  Individual Contribution                          |
-|-----------------------------------------------------------------------------------------------------------------------|                   
-|W.A.T.K. Chandrasiri|     23DA2-0214     | Linked List and Student |Option 1: Add Student Record                       |
-|                    |                    | Record                  |Option 2: Update Student Record                    |      
-|                    |                    |                         |Option 3: Delete Student Record                    |
-|                    |                    |                         |Option 4: Display All Records using Linked List    |
-|-----------------------------------------------------------------------------------------------------------------------|
-|R.M.T.R. Rathnayaka |     23DA2-0253     | Stack and Queue         |Option 7: Add Service Request to Queue             |
-|                    |                    |                         |Option 8: Process Next Service Request             |      
-|                    |                    |                         |Option 9: Display Pending Service Requests         |
-|                    |                    |                         |Option 10: Display Recent Actions using Stack      |
-|-----------------------------------------------------------------------------------------------------------------------|
-|N.B.A. Nethmi       |     23DA2-0182     | BST,                    |Option 5: Search Student using Hashing             |
-|  Navodya Nishanka  |                    | and Hashing             |Option 6: Display Students using BST/AVL           |      
-|-----------------------------------------------------------------------------------------------------------------------|
-| P.H. Senevirathna  |     23DA2-0071     | Graph                   |Option 11: Add Campus Location                     |      
-|                    |                    | Main.java               |Option 12: Remove Campus Location                  |
-|                    |                    |                         |Option 13: Add Campus Connection/Road              |
-|                    |                    |                         |Option 14: Remove Campus Connection/Road           |      
-|                    |                    |                         |Option 15: Display Campus Connections              |
-|                    |                    |                         |Option 16: Traverse Campus using BFS/DFS           |
-|                    |                    |                         |Option 17: Exit                                    |
-|-----------------------------------------------------------------------------------------------------------------------|
 
+|Member's Name        |  Student ID      |   Assigned Responsibility        | Individual Contribution                          |
+|---------------------|------------------|----------------------------------|--------------------------------------------------|
+|W.A.T.K. Chandrasiri | 23DA2-0214       |Linked List and Student Record    |Option 1: Add Student Record                      |                                        
+|                     |                  |                                  |Option 2: Update Student Record                   |
+|                     |                  |                                  |Option 3: Delete Student Record                   |
+|                     |                  |                                  |Option 4: Display All Records using Linked List   |
+|R.M.T.R. Rathnayaka  | 23DA2-0253       |Stack and Queue                   |Option 7: Add Service Request to Queue            |                                        
+|                     |                  |                                  |Option 8: Process Next Service Request            |
+|                     |                  |                                  |Option 9: Display Pending Service Requests        |
+|                     |                  |                                  |Option 10: Display Recent Actions using Stack     |
+| N.B.A. Nethmi  Navodya Nishanka| 23DA2-0182       |BST and Hashing        |Option 5: Search Student using Hashing            |                                        
+|                     |                  |                                  |Option 6: Display Students using BST/AVL          |
+| P.H. Senevirathna   | 23DA2-0071       |  Graph and Main.java             |Option 11: Add Campus Location                    |                                        
+|                     |                  |                                  |Option 12: Remove Campus Location                 |
+|                     |                  |                                  |Option 13: Add Campus Connection/Road             |
+|                     |                  |                                  |Option 14: Remove Campus Connection/Road          |
+|                     |                  |                                  |Option 15: Display Campus Connections             |
+|                     |                  |                                  |Option 16: Traverse Campus using BFS/DFS          |
+|                     |                  |                                  |Option 17: Exit                                   |
+
+
+  
+
+                                                                            
+                                                                             
+
+
+                                                                             
 /*
 ## Academic Information
 
